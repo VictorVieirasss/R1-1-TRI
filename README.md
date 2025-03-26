@@ -1,1 +1,1 @@
-# R1-1-TRI
+# R1-1-TRI projeto desenvolvido pelo curso Alura do terceiro ano do ensino medio
